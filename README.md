@@ -8,4 +8,4 @@
 
 ### Live Demo
 
-You can see a Live Demo of this (https://delicious-food-two-col-layout-by-aman.netlify.app/)
+You can see a Live Demo of this (https://hitarthsh.github.io/project-exercise-4-sheryians/)
